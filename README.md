@@ -1,17 +1,11 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hey! Nice to see you.
+  Hi there! I'm Mirdula Chandrasekaran 👋
 </h1>
 
 <p>
-  Welcome to my GitHub profile! <br/>
-  I'm <b>Mirdula C</b>, a <b>Fullstack Developer</b> from 
-  <img src="https://cdn-icons-png.flaticon.com/128/10597/10597864.png" width="13"/> 
-  <b>Aruppukottai, Tamil Nadu</b>.  
-</p>
-
-<p>
-  I enjoy building <b>modern, responsive web applications</b> and exploring new technologies to create efficient and user-friendly solutions.
+  I'm a <b>Full-Stack Developer</b> passionate about building <b>modern, responsive web applications</b> 
+  and exploring new technologies to create efficient and user-friendly solutions.
 </p>
 
 <h3>Things I code with</h3>
