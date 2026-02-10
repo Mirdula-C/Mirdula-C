@@ -8,7 +8,6 @@
   and exploring new technologies to create efficient and user-friendly solutions.
 </p>
 
-<h3>Things I code with</h3>
 <h3>💻 Things I code with</h3>
 
 <!-- Frontend -->
